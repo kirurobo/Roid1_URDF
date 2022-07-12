@@ -140,12 +140,12 @@ Visualization Manager:
           Show Axes: false
           Show Trail: false
           Value: true
-        l_lowerreg:
+        l_lowerleg:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        l_rowerreg:
+        l_rowerleg:
           Alpha: 1
           Show Axes: false
           Show Trail: false
@@ -170,12 +170,12 @@ Visualization Manager:
           Show Axes: false
           Show Trail: false
           Value: true
-        l_upperreg:
+        l_upperleg:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        r_upperreg:
+        r_upperleg:
           Alpha: 1
           Show Axes: false
           Show Trail: false
